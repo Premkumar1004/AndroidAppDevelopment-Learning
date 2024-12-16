@@ -7,7 +7,7 @@ import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentStatePagerAdapter
 import androidx.viewpager.widget.ViewPager
 import com.google.android.material.tabs.TabLayout
-
+//this is comment
 class MainActivity : AppCompatActivity() {
 
     lateinit var tab: TabLayout
